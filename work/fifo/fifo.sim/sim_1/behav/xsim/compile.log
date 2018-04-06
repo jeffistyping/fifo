@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/gitkra/fifo/hdl/fifo/fifo.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module fifo
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/gitkra/fifo/sim/fifo/tb_fifo.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module tb_fifo
